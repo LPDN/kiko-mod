@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " L ",
+    "LWL",
+    " L "
+  ],
+  "key": {
+    "L": {"item": "minecraft:leather"},
+    "W": {"item": "minecraft:white_wool"}
+  },
+  "result": {"id": "kiko:soccer_ball", "count": 1}
+}

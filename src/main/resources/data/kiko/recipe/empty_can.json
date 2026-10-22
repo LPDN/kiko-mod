@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  "N N",
+  " N "
+ ],
+ "key": {
+  "N": {
+   "item": "minecraft:iron_nugget"
+  }
+ },
+ "result": {
+  "id": "kiko:empty_can",
+  "count": 2
+ }
+}

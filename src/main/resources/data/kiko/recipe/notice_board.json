@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  "SPS",
+  "SPS",
+  "S S"
+ ],
+ "key": {
+  "S": {
+   "item": "minecraft:stick"
+  },
+  "P": {
+   "item": "minecraft:paper"
+  }
+ },
+ "result": {
+  "id": "kiko:notice_board",
+  "count": 1
+ }
+}

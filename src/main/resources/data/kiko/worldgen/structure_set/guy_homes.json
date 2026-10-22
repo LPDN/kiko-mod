@@ -1,0 +1,34 @@
+{
+  "structures": [
+    {
+      "structure": "kiko:tono_ranch",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:leo_shack",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:dante_tower",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:ivan_mine",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:emi_studio",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:beto_shop",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 10,
+    "salt": 51783207
+  }
+}

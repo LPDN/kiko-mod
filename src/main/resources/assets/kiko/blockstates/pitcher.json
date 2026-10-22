@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "level=0": {
+   "model": "kiko:block/pitcher_0"
+  },
+  "level=1": {
+   "model": "kiko:block/pitcher_0"
+  },
+  "level=2": {
+   "model": "kiko:block/pitcher_0"
+  },
+  "level=3": {
+   "model": "kiko:block/pitcher_0"
+  },
+  "level=4": {
+   "model": "kiko:block/pitcher_0"
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "replace": false,
+ "values": [
+  "kiko:beto_shop",
+  "kiko:dante_tower",
+  "kiko:emi_studio",
+  "kiko:ivan_mine",
+  "kiko:kiko_cottage",
+  "kiko:leo_shack",
+  "kiko:leo_shack_beach",
+  "kiko:lumi_library",
+  "kiko:maru_forge",
+  "kiko:nadi_camp",
+  "kiko:rina_clinic",
+  "kiko:tami_kitchen",
+  "kiko:tono_ranch",
+  "kiko:town_acacia",
+  "kiko:town_oak",
+  "kiko:town_spruce"
+ ]
+}

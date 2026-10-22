@@ -1,0 +1,32 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:pitcher"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  [
+   {
+    "item": "minecraft:poppy"
+   },
+   {
+    "item": "minecraft:red_tulip"
+   }
+  ],
+  [
+   {
+    "item": "minecraft:poppy"
+   },
+   {
+    "item": "minecraft:red_tulip"
+   }
+  ]
+ ],
+ "result": {
+  "id": "kiko:pitcher_jamaica",
+  "count": 1
+ }
+}

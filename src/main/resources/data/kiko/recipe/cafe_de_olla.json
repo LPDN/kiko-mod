@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:mug"
+  },
+  {
+   "item": "minecraft:cocoa_beans"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "minecraft:stick"
+  }
+ ],
+ "result": {
+  "id": "kiko:cafe_de_olla",
+  "count": 1
+ }
+}

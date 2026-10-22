@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jaciel.kiko.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "JigsawStructureMixin",
+    "PlayerEntityMixin",
+    "ChunkGeneratorMixin",
+    "TreeFeatureMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

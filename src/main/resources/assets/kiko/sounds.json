@@ -1,0 +1,18 @@
+{
+  "kiko.greet": {
+    "subtitle": "subtitles.kiko.greet",
+    "sounds": [{ "name": "kiko:greet", "volume": 0.8 }]
+  },
+  "kiko.happy": {
+    "subtitle": "subtitles.kiko.happy",
+    "sounds": [{ "name": "kiko:happy", "volume": 0.8 }]
+  },
+  "kiko.sad": {
+    "subtitle": "subtitles.kiko.sad",
+    "sounds": [{ "name": "kiko:sad", "volume": 0.8 }]
+  },
+  "kiko.hurt": {
+    "subtitle": "subtitles.kiko.hurt",
+    "sounds": [{ "name": "kiko:hurt", "volume": 0.9 }]
+  }
+}

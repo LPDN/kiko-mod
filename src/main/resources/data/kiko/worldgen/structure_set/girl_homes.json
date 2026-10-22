@@ -1,0 +1,34 @@
+{
+  "structures": [
+    {
+      "structure": "kiko:kiko_cottage",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:maru_forge",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:lumi_library",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:nadi_camp",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:rina_clinic",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:tami_kitchen",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 10,
+    "salt": 74135921
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "kiko:block/crib"},
+    "facing=east": {"model": "kiko:block/crib", "y": 90},
+    "facing=south": {"model": "kiko:block/crib", "y": 180},
+    "facing=west": {"model": "kiko:block/crib", "y": 270}
+  }
+}

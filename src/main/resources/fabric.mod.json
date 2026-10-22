@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "kiko",
+  "version": "${version}",
+  "name": "Kiko Companion",
+  "description": "Kiko, una compañera pícara y bromista que vive en las aldeas. Gánate su cariño con comida y regalos y te seguirá a todas partes.",
+  "authors": ["Jaciel"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/kiko/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.jaciel.kiko.KikoMod"],
+    "client": ["com.jaciel.kiko.client.KikoClient"]
+  },
+  "mixins": ["kiko.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

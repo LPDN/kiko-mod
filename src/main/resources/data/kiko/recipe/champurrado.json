@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:mug"
+  },
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:cocoa_beans"
+  }
+ ],
+ "result": {
+  "id": "kiko:champurrado",
+  "count": 1
+ }
+}

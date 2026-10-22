@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:cup"
+  },
+  {
+   "item": "minecraft:sweet_berries"
+  },
+  {
+   "item": "minecraft:milk_bucket"
+  }
+ ],
+ "result": {
+  "id": "kiko:licuado_fresa",
+  "count": 1
+ }
+}

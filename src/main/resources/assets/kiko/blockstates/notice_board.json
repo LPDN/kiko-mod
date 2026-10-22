@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "kiko:block/notice_board"
+  },
+  "facing=east": {
+   "model": "kiko:block/notice_board",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "kiko:block/notice_board",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "kiko:block/notice_board",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "level=0": {
+   "model": "kiko:block/pitcher_jamaica_1"
+  },
+  "level=1": {
+   "model": "kiko:block/pitcher_jamaica_1"
+  },
+  "level=2": {
+   "model": "kiko:block/pitcher_jamaica_2"
+  },
+  "level=3": {
+   "model": "kiko:block/pitcher_jamaica_3"
+  },
+  "level=4": {
+   "model": "kiko:block/pitcher_jamaica_4"
+  }
+ }
+}

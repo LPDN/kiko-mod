@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [ { "item": "minecraft:cyan_wool" }, { "item": "minecraft:blue_wool" }, { "item": "minecraft:white_dye" } ],
+  "result": { "id": "kiko:outfit_casual1", "count": 1 }
+}

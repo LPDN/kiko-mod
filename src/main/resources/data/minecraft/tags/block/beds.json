@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "kiko:kiko_bed",
+    "kiko:bed_forge",
+    "kiko:bed_moon",
+    "kiko:bed_trail",
+    "kiko:bed_clinic",
+    "kiko:bed_kitchen",
+    "kiko:bed_ranch",
+    "kiko:bed_sailor",
+    "kiko:bed_guard",
+    "kiko:bed_mine",
+    "kiko:bed_music",
+    "kiko:bed_merchant"
+  ]
+}

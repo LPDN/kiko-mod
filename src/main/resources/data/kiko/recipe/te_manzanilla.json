@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:mug"
+  },
+  {
+   "item": "minecraft:oxeye_daisy"
+  },
+  {
+   "item": "minecraft:oxeye_daisy"
+  }
+ ],
+ "result": {
+  "id": "kiko:te_manzanilla",
+  "count": 1
+ }
+}

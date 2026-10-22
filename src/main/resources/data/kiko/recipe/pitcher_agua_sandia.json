@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "kiko:pitcher"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  }
+ ],
+ "result": {
+  "id": "kiko:pitcher_agua_sandia",
+  "count": 1
+ }
+}

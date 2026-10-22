@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "kiko:town_oak",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:town_spruce",
+      "weight": 1
+    },
+    {
+      "structure": "kiko:town_acacia",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 44,
+    "separation": 14,
+    "salt": 63410925,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 6
+    }
+  }
+}
